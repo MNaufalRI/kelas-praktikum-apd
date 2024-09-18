@@ -5,7 +5,7 @@ if nilai >= 0 and nilai <= 100:
     if 80 <= nilai <= 89:
         print("Nilai kamu adalah A-")
     if 90 <= nilai <= 99:
-        print("Nilai kamu adalah A-")
+        print("Nilai kamu adalah A+")
     
 
     if 60 <= nilai <= 69:
